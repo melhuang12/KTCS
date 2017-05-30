@@ -1,3 +1,3 @@
 # KTCS
-Kingston Town Car Share
+Kingston Town Car Share <br/>
 Use attached user manual to navigate the application. 
